@@ -1,0 +1,1138 @@
+{
+ "meta": {
+  "retrieved": "16 Nov 2026",
+  "updated": "16 Nov 2026",
+  "note": "verified:false = seen only via extraction or secondary summary. 'derived' = arithmetic on supplied numbers. 'chart:false' = shown in text, not drawn. 'separate' = drawn as a separate marker, not joined to the series."
+ },
+ "numbers": [
+  {
+   "id": "problem_stat_1",
+   "label": "Direct-investment liabilities (stock)",
+   "value": 164.4,
+   "unit": "US$ bn",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "balance of payments, assets/liabilities principle",
+   "vintage": "9M 2025 report",
+   "verified": false
+  },
+  {
+   "id": "problem_stat_3",
+   "label": "Metallurgy share of 2025 manufacturing FDI inflows",
+   "value": 47,
+   "unit": "%",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "share of flows",
+   "vintage": "Apr 2026",
+   "verified": false
+  },
+  {
+   "id": "mfg_share_machinery",
+   "label": "Machinery share of 2025 manufacturing FDI inflows",
+   "value": 4,
+   "unit": "%",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "share of flows",
+   "vintage": "Apr 2026",
+   "verified": false
+  },
+  {
+   "id": "mfg_share_electronics",
+   "label": "Electronics share of 2025 manufacturing FDI inflows",
+   "value": 1,
+   "unit": "%",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "share of flows",
+   "vintage": "Apr 2026",
+   "verified": false
+  },
+  {
+   "id": "mfg_share_electrical",
+   "label": "Electrical equipment share of 2025 manufacturing FDI inflows",
+   "value": 0.3,
+   "unit": "%",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "share of flows",
+   "vintage": "Apr 2026",
+   "verified": false
+  },
+  {
+   "id": "A_gross_2015",
+   "label": "Gross inflow 2015",
+   "value": 15368,
+   "unit": "US$ m",
+   "year": 2015,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "gross"
+  },
+  {
+   "id": "A_net_2015",
+   "label": "Net inflow 2015",
+   "value": 4057,
+   "unit": "US$ m",
+   "year": 2015,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "net"
+  },
+  {
+   "id": "A_gross_2016",
+   "label": "Gross inflow 2016",
+   "value": 21367,
+   "unit": "US$ m",
+   "year": 2016,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "gross"
+  },
+  {
+   "id": "A_net_2016",
+   "label": "Net inflow 2016",
+   "value": 8514,
+   "unit": "US$ m",
+   "year": 2016,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "net"
+  },
+  {
+   "id": "A_gross_2017",
+   "label": "Gross inflow 2017",
+   "value": 20960,
+   "unit": "US$ m",
+   "year": 2017,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "gross"
+  },
+  {
+   "id": "A_net_2017",
+   "label": "Net inflow 2017",
+   "value": 4714,
+   "unit": "US$ m",
+   "year": 2017,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "net"
+  },
+  {
+   "id": "A_gross_2018",
+   "label": "Gross inflow 2018",
+   "value": 24271,
+   "unit": "US$ m",
+   "year": 2018,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "gross"
+  },
+  {
+   "id": "A_net_2018",
+   "label": "Net inflow 2018",
+   "value": 3898,
+   "unit": "US$ m",
+   "year": 2018,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "net"
+  },
+  {
+   "id": "A_gross_2019",
+   "label": "Gross inflow 2019",
+   "value": 24437,
+   "unit": "US$ m",
+   "year": 2019,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "gross"
+  },
+  {
+   "id": "A_net_2019",
+   "label": "Net inflow 2019",
+   "value": 3284,
+   "unit": "US$ m",
+   "year": 2019,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "net"
+  },
+  {
+   "id": "A_gross_2020",
+   "label": "Gross inflow 2020",
+   "value": 17155,
+   "unit": "US$ m",
+   "year": 2020,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "gross"
+  },
+  {
+   "id": "A_net_2020",
+   "label": "Net inflow 2020",
+   "value": 3670,
+   "unit": "US$ m",
+   "year": 2020,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "net"
+  },
+  {
+   "id": "A_gross_2021",
+   "label": "Gross inflow 2021",
+   "value": 23810,
+   "unit": "US$ m",
+   "year": 2021,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "gross"
+  },
+  {
+   "id": "A_net_2021",
+   "label": "Net inflow 2021",
+   "value": 3353,
+   "unit": "US$ m",
+   "year": 2021,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "net"
+  },
+  {
+   "id": "A_gross_2022",
+   "label": "Gross inflow 2022",
+   "value": 28171,
+   "unit": "US$ m",
+   "year": 2022,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "gross"
+  },
+  {
+   "id": "A_net_2022",
+   "label": "Net inflow 2022",
+   "value": 6542,
+   "unit": "US$ m",
+   "year": 2022,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "net"
+  },
+  {
+   "id": "A_gross_2023",
+   "label": "Gross inflow 2023",
+   "value": 23866,
+   "unit": "US$ m",
+   "year": 2023,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "gross"
+  },
+  {
+   "id": "A_net_2023",
+   "label": "Net inflow 2023",
+   "value": 3590,
+   "unit": "US$ m",
+   "year": 2023,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "net"
+  },
+  {
+   "id": "A_gross_2024",
+   "label": "Gross inflow 2024",
+   "value": 17761,
+   "unit": "US$ m",
+   "year": 2024,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "gross"
+  },
+  {
+   "id": "A_net_2024",
+   "label": "Net inflow 2024",
+   "value": 151,
+   "unit": "US$ m",
+   "year": 2024,
+   "source": "HALYK_JAN26",
+   "basis": "NBK Economic Review series",
+   "vintage": "Jan 2026",
+   "verified": false,
+   "panel": "A",
+   "series": "net"
+  },
+  {
+   "id": "A_gross_2025_9M",
+   "label": "Gross inflow, 9M 2025 (separate marker)",
+   "value": 14894.6,
+   "unit": "US$ m",
+   "year": 2025,
+   "source": "NBK_BOP_9M25",
+   "basis": "balance of payments, 9M only",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "A",
+   "series": "gross",
+   "separate": true,
+   "marker_label": "9M 2025, BoP basis (not spliced)"
+  },
+  {
+   "id": "A_net_2025_9M",
+   "label": "Net incurrence of liabilities, 9M 2025 (separate marker)",
+   "value": -397.6,
+   "unit": "US$ m",
+   "year": 2025,
+   "source": "NBK_BOP_9M25",
+   "basis": "net incurrence of liabilities, 9M only",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "A",
+   "series": "net",
+   "separate": true,
+   "marker_label": "9M 2025, BoP basis (not spliced)"
+  },
+  {
+   "id": "B_mining",
+   "label": "Mining",
+   "value": -6.5,
+   "unit": "US$ bn",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "net incurrence of liabilities by sector",
+   "vintage": "Apr 2026",
+   "verified": false,
+   "panel": "B"
+  },
+  {
+   "id": "B_construction",
+   "label": "Construction",
+   "value": -0.3,
+   "unit": "US$ bn",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "net incurrence of liabilities by sector",
+   "vintage": "Apr 2026",
+   "verified": false,
+   "panel": "B"
+  },
+  {
+   "id": "B_manufacturing",
+   "label": "Manufacturing",
+   "value": 1.7,
+   "unit": "US$ bn",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "net incurrence of liabilities by sector",
+   "vintage": "Apr 2026",
+   "verified": false,
+   "panel": "B"
+  },
+  {
+   "id": "B_trade_fin_comm",
+   "label": "Trade, finance & comms (about)",
+   "value": 3.4,
+   "unit": "US$ bn",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "net incurrence of liabilities by sector",
+   "vintage": "Apr 2026",
+   "verified": false,
+   "panel": "B",
+   "approx": true
+  },
+  {
+   "id": "B_oilgas",
+   "label": "of which oil and gas (within mining)",
+   "value": -6.3,
+   "unit": "US$ bn",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "net incurrence of liabilities by sector",
+   "vintage": "Apr 2026",
+   "verified": false,
+   "panel": "B",
+   "chart": false
+  },
+  {
+   "id": "B_total",
+   "label": "Total, all sectors",
+   "value": -0.9,
+   "unit": "US$ bn",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "net incurrence of liabilities by sector",
+   "vintage": "Apr 2026",
+   "verified": false,
+   "panel": "B",
+   "chart": false
+  },
+  {
+   "id": "B_listed_sum",
+   "label": "Sum of listed sectors",
+   "value": -1.7,
+   "unit": "US$ bn",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "net incurrence of liabilities by sector",
+   "vintage": "Apr 2026",
+   "verified": false,
+   "panel": "B",
+   "chart": false,
+   "derived": "sum of mining, construction, manufacturing, trade/finance/comms"
+  },
+  {
+   "id": "B_residual",
+   "label": "Residual (presumably other sectors, unconfirmed)",
+   "value": 0.8,
+   "unit": "US$ bn",
+   "year": 2025,
+   "source": "HALYK_APR26",
+   "basis": "net incurrence of liabilities by sector",
+   "vintage": "Apr 2026",
+   "verified": false,
+   "panel": "B",
+   "chart": false,
+   "derived": "total minus sum of listed sectors"
+  },
+  {
+   "id": "C_equity",
+   "label": "Equity",
+   "value": 75.7,
+   "unit": "US$ bn",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "balance of payments, assets/liabilities principle",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "C"
+  },
+  {
+   "id": "C_debt",
+   "label": "Intercompany debt",
+   "value": 88.7,
+   "unit": "US$ bn",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "balance of payments, assets/liabilities principle",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "C"
+  },
+  {
+   "id": "C_debt_share",
+   "label": "Intercompany debt as share of stock",
+   "value": 54,
+   "unit": "%",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "balance of payments, assets/liabilities principle",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "C",
+   "chart": false,
+   "derived": "88.7 / 164.4"
+  },
+  {
+   "id": "C_debt_oilgas_share",
+   "label": "Share of intercompany debt in oil and gas branches",
+   "value": 67.3,
+   "unit": "%",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "balance of payments, assets/liabilities principle",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "C",
+   "chart": false
+  },
+  {
+   "id": "C_stock_jan25",
+   "label": "Direct-investment liabilities, 1 Jan 2025",
+   "value": 169.5,
+   "unit": "US$ bn",
+   "year": "1 Jan 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "balance of payments, assets/liabilities principle",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "C",
+   "chart": false
+  },
+  {
+   "id": "C_stock_fall",
+   "label": "Fall in stock, 1 Jan to 1 Oct 2025",
+   "value": 5.1,
+   "unit": "US$ bn",
+   "year": "Jan–Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "balance of payments, assets/liabilities principle",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "C",
+   "chart": false,
+   "derived": "169.5 − 164.4"
+  },
+  {
+   "id": "D_basic_metals",
+   "label": "Basic metals",
+   "value": 10293.7,
+   "unit": "US$ m",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "stock of all external liabilities by activity, all instruments (not direct investment only)",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "D"
+  },
+  {
+   "id": "D_chemicals",
+   "label": "Chemicals",
+   "value": 5549.3,
+   "unit": "US$ m",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "stock of all external liabilities by activity, all instruments (not direct investment only)",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "D"
+  },
+  {
+   "id": "D_food",
+   "label": "Food",
+   "value": 2257.5,
+   "unit": "US$ m",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "stock of all external liabilities by activity, all instruments (not direct investment only)",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "D"
+  },
+  {
+   "id": "D_transport",
+   "label": "Transport equipment",
+   "value": 1027.4,
+   "unit": "US$ m",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "stock of all external liabilities by activity, all instruments (not direct investment only)",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "D"
+  },
+  {
+   "id": "D_coke_refined",
+   "label": "Coke and refined products",
+   "value": 867.5,
+   "unit": "US$ m",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "stock of all external liabilities by activity, all instruments (not direct investment only)",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "D"
+  },
+  {
+   "id": "D_residual",
+   "label": "Residual, not itemised",
+   "value": 3520.1,
+   "unit": "US$ m",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "stock of all external liabilities by activity, all instruments (not direct investment only)",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "D"
+  },
+  {
+   "id": "D_mfg_total",
+   "label": "Manufacturing total",
+   "value": 23515.5,
+   "unit": "US$ m",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "stock of all external liabilities by activity, all instruments (not direct investment only)",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "D",
+   "chart": false
+  },
+  {
+   "id": "D_mfg_share",
+   "label": "Manufacturing share of total external liabilities",
+   "value": 9.1,
+   "unit": "%",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "stock of all external liabilities by activity, all instruments (not direct investment only)",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "D",
+   "chart": false,
+   "derived": "23,515.5 / 257,661.0 total external liabilities"
+  },
+  {
+   "id": "D_ex_metals_refining",
+   "label": "Manufacturing excluding basic metals and refining",
+   "value": 12.4,
+   "unit": "US$ bn",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "stock of all external liabilities by activity, all instruments (not direct investment only)",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "D",
+   "chart": false,
+   "derived": "23,515.5 − 10,293.7 − 867.5"
+  },
+  {
+   "id": "D_ex_metals_refining_chem",
+   "label": "Also excluding all chemicals",
+   "value": 6.8,
+   "unit": "US$ bn",
+   "year": "1 Oct 2025",
+   "source": "NBK_BOP_9M25",
+   "basis": "stock of all external liabilities by activity, all instruments (not direct investment only)",
+   "vintage": "9M 2025 report",
+   "verified": false,
+   "panel": "D",
+   "chart": false,
+   "derived": "12,354.3 − 5,549.3"
+  },
+  {
+   "id": "S_net2024_low",
+   "label": "Lowest of five 2024 net readings",
+   "value": 0.15,
+   "unit": "US$ bn",
+   "year": 2024,
+   "source": null,
+   "basis": "five different definitions of net FDI",
+   "vintage": "various",
+   "verified": false
+  },
+  {
+   "id": "S_net2024_high",
+   "label": "Highest of five 2024 net readings",
+   "value": 3.9,
+   "unit": "US$ bn",
+   "year": 2024,
+   "source": null,
+   "basis": "five different definitions of net FDI",
+   "vintage": "various",
+   "verified": false
+  },
+  {
+   "id": "S_income_payable",
+   "label": "Income payable to direct investors, 9M 2025",
+   "value": 16.0,
+   "unit": "US$ bn",
+   "year": "9M 2025",
+   "source": null,
+   "basis": null,
+   "vintage": null,
+   "verified": false
+  },
+  {
+   "id": "S_net_profit",
+   "label": "Net profit of companies with foreign direct investors, 9M 2025",
+   "value": 11.8,
+   "unit": "US$ bn",
+   "year": "9M 2025",
+   "source": null,
+   "basis": null,
+   "vintage": null,
+   "verified": false
+  },
+  {
+   "id": "CASE_cinde_pipeline",
+   "label": "CINDE: higher probability for pipeline firms",
+   "value": 10,
+   "unit": "%",
+   "year": "2020–2022",
+   "source": "IDB_IPA26",
+   "basis": "pilot vs agency's earlier generic ML",
+   "vintage": "May 2026",
+   "verified": false,
+   "value_high": 11
+  },
+  {
+   "id": "CASE_cinde_prospects",
+   "label": "CINDE: higher probability for prospects",
+   "value": 17,
+   "unit": "%",
+   "year": "2020–2022",
+   "source": "IDB_IPA26",
+   "basis": "pilot vs agency's earlier generic ML",
+   "vintage": "May 2026",
+   "verified": false,
+   "value_high": 19
+  },
+  {
+   "id": "CASE_korea_flagged",
+   "label": "Invest KOREA: flagged firms that went on to invest",
+   "value": 38.5,
+   "unit": "%",
+   "year": "2023–2025",
+   "source": "UNCTAD_IPA16",
+   "basis": "hit rate of flagged firms",
+   "vintage": "Apr 2026",
+   "verified": false
+  },
+  {
+   "id": "CASE_korea_baseline",
+   "label": "Invest KOREA: baseline",
+   "value": 17.7,
+   "unit": "%",
+   "year": "2023–2025",
+   "source": "UNCTAD_IPA16",
+   "basis": "baseline (definition unknown)",
+   "vintage": "Apr 2026",
+   "verified": false
+  },
+  {
+   "id": "CASE_korea_ratio",
+   "label": "Invest KOREA: flagged vs baseline",
+   "value": 2.2,
+   "unit": "times",
+   "year": "2023–2025",
+   "source": "UNCTAD_IPA16",
+   "basis": "ratio",
+   "vintage": "Apr 2026",
+   "verified": false,
+   "derived": "38.5 / 17.7"
+  }
+ ],
+ "silences": [
+  {
+   "silence": "Direct-investment-only stock by activity is missing (the NBK table covers all instruments).",
+   "why": "The narrow definition can only be bracketed.",
+   "who": "Non-resource investors hidden inside aggregates."
+  },
+  {
+   "silence": "Gross inflow by sector is missing; sector data found is net only.",
+   "why": "Cannot separate new entry from turnover.",
+   "who": null
+  },
+  {
+   "silence": "There is no single \"net\". Five readings of 2024 run from {{S_net2024_low|$#bn|2}} to {{S_net2024_high|$#bn|1}}.",
+   "why": "Headline claims depend on the definition.",
+   "who": null
+  },
+  {
+   "silence": "Special-purpose entities, transit capital and ultimate owners are not discussed in the sources I read. UNCTAD excludes SPEs.",
+   "why": "Country-of-origin analysis is unreliable.",
+   "who": null
+  },
+  {
+   "silence": "Full-year 2025 file and 2026 data are missing; NBK revises in May and November.",
+   "why": "Vintage risk.",
+   "who": null
+  },
+  {
+   "silence": "No pre-2025 non-extractive series.",
+   "why": "Cannot say whether {{B_manufacturing|+$#bn|1}} in manufacturing is high or low.",
+   "who": null
+  },
+  {
+   "silence": "Classification: NBK notes oil and gas activity also appears under transport and trade.",
+   "why": "Part of \"non-resource\" may be resource-linked.",
+   "who": null
+  },
+  {
+   "silence": "No data on local sourcing or supplier contracts.",
+   "why": "The spillover mechanism is untested.",
+   "who": null
+  },
+  {
+   "silence": "Rent capture is not split by sector: income payable to direct investors was {{S_income_payable|$#bn|1}} in 9M 2025 against net profit of {{S_net_profit|$#bn|1}}.",
+   "why": null,
+   "who": null
+  },
+  {
+   "silence": "Agency pipeline records, where investors stall, are not public.",
+   "why": "H1 remains a hypothesis.",
+   "who": null
+  },
+  {
+   "silence": "Finance inflow: new capital or purchase of existing banks is unknown.",
+   "why": null,
+   "who": null
+  },
+  {
+   "silence": "No domestic-capital comparison collected.",
+   "why": null,
+   "who": null
+  }
+ ],
+ "approaches": [
+  {
+   "name": "Resource curse and crowding-out",
+   "claim": "Resource-sector FDI may crowd out non-resource FDI. (Abstract only; I have not opened the full text.)",
+   "sources": [
+    "PVDP13"
+   ]
+  },
+  {
+   "name": "Spillovers and linkages",
+   "claim": "Spillovers from foreign firms to local ones run mainly through supplier links; Kazakhstan evidence on linkages exists but I have not read it.",
+   "sources": [
+    "JAV04",
+    "VANDERHILL19"
+   ]
+  },
+  {
+   "name": "Obsolescing bargain and credible commitment",
+   "claim": "Institutions that shape state-investor bargains may explain why large extractive projects and small manufacturers are treated differently. Not opened.",
+   "sources": [
+    "JLW10"
+   ]
+  },
+  {
+   "name": "Investment promotion effectiveness",
+   "claim": "Promotion agencies can raise first entry by firms facing information frictions, but evidence of effects on expansion is weak.",
+   "sources": [
+    "HJ11",
+    "CARBALLO21",
+    "IDB_IPA26"
+   ]
+  },
+  {
+   "name": "Product space and relatedness",
+   "claim": "Countries tend to enter sectors close to what they already do, which warns that AI targeting trained on past investors would repeat the past.",
+   "sources": [
+    "HIDALGO07"
+   ]
+  }
+ ],
+ "cases": [
+  {
+   "name": "Costa Rica, CINDE (investment promotion agency)",
+   "evidence": "IDB report, May 2026, Section 5.2, Box 24",
+   "what": "Supervised machine learning ranks multinationals by likelihood of establishing or expanding an affiliate",
+   "result": "Against the agency's own earlier generic ML, {{CASE_cinde_pipeline|+#%}} probability for pipeline firms and {{CASE_cinde_prospects|+#%}} for prospects; the authors call these first preliminary results",
+   "limits": "Baselines, sample sizes, significance and costs not reported; unit (percent vs percentage points) unclear; not independent, the IDB co-ran the pilot in 2020-2022",
+   "numbers": [],
+   "sources": [
+    "IDB_IPA26",
+    "CARBALLO21|non-AI estimates"
+   ]
+  },
+  {
+   "name": "Invest KOREA",
+   "evidence": "UNCTAD, IPA Observer 16",
+   "what": "An AI system flags firms likely to invest again",
+   "result": "{{CASE_korea_flagged}} of flagged firms went on to invest vs a {{CASE_korea_baseline}} baseline, 2023-2025 (about {{CASE_korea_ratio}})",
+   "limits": "A hit rate, not a causal effect; no control group; baseline definition unknown; tests aftercare for existing investors, not winning new non-resource investors; no primary Korean evaluation found",
+   "numbers": [],
+   "sources": [
+    "UNCTAD_IPA16"
+   ]
+  },
+  {
+   "name": "Invest Estonia",
+   "kind": "descriptive only",
+   "evidence": "IRCAI Global Top 100 entry, 2025, self-submitted",
+   "what": "\"non-human agents\" to inform potential investors",
+   "result": "None reported",
+   "limits": "No outcomes, costs or evaluation; claimed only, listed to show how thin the evidence is",
+   "numbers": [],
+   "sources": [
+    "IRCAI_EST"
+   ]
+  }
+ ],
+ "bill": [
+  {
+   "dimension": "Environmental",
+   "summary": "[TO FILL]",
+   "numbers": [],
+   "nodata": [],
+   "sources": []
+  },
+  {
+   "dimension": "Economic",
+   "summary": "[TO FILL]",
+   "numbers": [],
+   "nodata": [],
+   "sources": []
+  },
+  {
+   "dimension": "Labor",
+   "summary": "[TO FILL]",
+   "numbers": [],
+   "nodata": [],
+   "sources": []
+  },
+  {
+   "dimension": "Political / governance",
+   "summary": "[TO FILL: incl. Law on AI No. 230-VIII]",
+   "numbers": [],
+   "nodata": [],
+   "sources": []
+  },
+  {
+   "dimension": "Data ethics",
+   "summary": "[TO FILL]",
+   "numbers": [],
+   "nodata": [],
+   "sources": []
+  }
+ ],
+ "conditions": [
+  {
+   "label": "[TO FILL: condition]",
+   "status": "unknown",
+   "note": "[TO FILL]"
+  }
+ ],
+ "sources": [
+  {
+   "id": "NBK_BOP_9M25",
+   "short": "NBK, BoP and External Debt, 9M 2025",
+   "citation": "National Bank of Kazakhstan, Balance of Payments and External Debt, 9M 2025",
+   "url": "https://nationalbank.kz/file/download/119304",
+   "status": "extraction-only",
+   "section": [
+    "problem",
+    "data"
+   ],
+   "note": null
+  },
+  {
+   "id": "NBK_REVIEW_3_25",
+   "short": "NBK Economic Review 3/2025",
+   "citation": "NBK Economic Review No. 3, 2025 (Amantai, pp. 59-72)",
+   "url": "https://nationalbank.kz/file/download/115064",
+   "status": "extraction-only",
+   "section": [
+    "data"
+   ],
+   "note": null
+  },
+  {
+   "id": "HALYK_APR26",
+   "short": "Halyk Finance, Apr 2026",
+   "citation": "Halyk Finance, FDI note, 20 Apr 2026",
+   "url": "https://halykfinance.kz/download/files/analytics/AC20042026.pdf",
+   "status": "secondary",
+   "section": [
+    "problem",
+    "data"
+   ],
+   "note": null
+  },
+  {
+   "id": "HALYK_JAN26",
+   "short": "Halyk Finance (NBK Economic Review series), Jan 2026",
+   "citation": "Halyk Finance, summary of NBK FDI article, Jan 2026",
+   "url": "https://halykfinance.kz/download/files/analytics/Nacbank_FDI_MT_yanv_2026.pdf",
+   "status": "secondary",
+   "section": [
+    "data"
+   ],
+   "note": null
+  },
+  {
+   "id": "UNCTAD_WIR26",
+   "short": "UNCTAD WIR 2026, LLDC note",
+   "citation": "UNCTAD, World Investment Report 2026, LLDC regional note",
+   "url": "https://unctad.org/system/files/non-official-document/wir2026-regional_trends_lldcs_en.pdf",
+   "status": "extraction-only",
+   "section": [
+    "data"
+   ],
+   "note": null
+  },
+  {
+   "id": "IMF_CR26_17",
+   "short": "IMF CR 26/17",
+   "citation": "IMF Country Report 26/17 (Jan 2026), first 100,000 of 175,930 characters",
+   "url": "https://www.imf.org/-/media/files/publications/cr/2026/english/1kazea2026001-source-pdf.pdf",
+   "status": "extraction-only",
+   "section": [],
+   "note": null
+  },
+  {
+   "id": "OECD_BC23",
+   "short": "OECD (2023)",
+   "citation": "OECD, Insights on the Business Climate in Kazakhstan (2023), ch. 6",
+   "url": "https://www.oecd.org/en/publications/insights-on-the-business-climate-in-kazakhstan_bd780306-en/full-report/component-9",
+   "status": "extraction-only",
+   "section": [
+    "problem"
+   ],
+   "note": null
+  },
+  {
+   "id": "IDB_IPA26",
+   "short": "IDB (2026)",
+   "citation": "IDB, Supporting Firms in the Digital Age (May 2026)",
+   "url": "https://publications.iadb.org/publications/english/document/Supporting-Firms-in-the-Digital-Age-The-Case-of-Investment-Promotion.pdf",
+   "status": "extraction-only",
+   "section": [
+    "research",
+    "solution"
+   ],
+   "note": null
+  },
+  {
+   "id": "UNCTAD_IPA16",
+   "short": "UNCTAD IPA Observer 16",
+   "citation": "UNCTAD, IPA Observer 16: AI for investment promotion",
+   "url": "https://unctad.org/publication/artificial-intelligence-investment-promotion",
+   "status": "secondary",
+   "section": [
+    "solution"
+   ],
+   "note": "publication page only; PDF not opened"
+  },
+  {
+   "id": "PVDP13",
+   "short": "Poelhekke & van der Ploeg (2013)",
+   "citation": "Poelhekke & van der Ploeg (2013), Review of Economics and Statistics 95(3)",
+   "url": "https://doi.org/10.1162/REST_a_00292",
+   "status": "abstract-only",
+   "section": [
+    "research"
+   ],
+   "note": "doi 10.1162/REST_a_00292"
+  },
+  {
+   "id": "JAV04",
+   "short": "Javorcik (2004)",
+   "citation": "Javorcik (2004), American Economic Review 94(3):605-627",
+   "url": "https://doi.org/10.1257/0002828041464605",
+   "status": "abstract-only",
+   "section": [
+    "research"
+   ],
+   "note": "doi 10.1257/0002828041464605"
+  },
+  {
+   "id": "HJ11",
+   "short": "Harding & Javorcik (2011)",
+   "citation": "Harding & Javorcik (2011), Economic Journal 121(557):1445-1476",
+   "url": "https://doi.org/10.1111/j.1468-0297.2011.02454.x",
+   "status": "abstract-only",
+   "section": [
+    "research"
+   ],
+   "note": "doi 10.1111/j.1468-0297.2011.02454.x"
+  },
+  {
+   "id": "CARBALLO21",
+   "short": "Carballo et al. (2021)",
+   "citation": "Carballo, Marra de Artiñano & Volpe Martincus, Information Frictions, Investment Promotion and Multinational Activity, CESifo WP 9043 (2021)",
+   "url": "https://www.cesifo.org/en/publications/2021/working-paper/information-frictions-investment-promotion-and-multinational",
+   "status": "abstract-only",
+   "section": [
+    "research",
+    "solution"
+   ],
+   "note": null
+  },
+  {
+   "id": "HIDALGO07",
+   "short": "Hidalgo et al. (2007)",
+   "citation": "Hidalgo, Klinger, Barabási & Hausmann (2007), Science 317(5837):482-487",
+   "url": "https://doi.org/10.1126/science.1144581",
+   "status": "not-opened",
+   "section": [
+    "research"
+   ],
+   "note": "doi 10.1126/science.1144581"
+  },
+  {
+   "id": "JLW10",
+   "short": "Jones Luong & Weinthal",
+   "citation": "Jones Luong & Weinthal, Oil Is Not a Curse, Cambridge University Press",
+   "url": null,
+   "status": "not-opened",
+   "section": [
+    "research"
+   ],
+   "note": "ISBN 9780521765770"
+  },
+  {
+   "id": "VANDERHILL19",
+   "short": "Vanderhill et al. (2019)",
+   "citation": "Vanderhill, Joireman & Tulepbayeva (2019), FDI linkages and institutional change in Kazakhstan, Azerbaijan and Kyrgyzstan",
+   "url": null,
+   "status": "not-opened",
+   "section": [
+    "research"
+   ],
+   "note": "repository record only"
+  },
+  {
+   "id": "IRCAI_EST",
+   "short": "IRCAI Top 100, Invest Estonia",
+   "citation": "IRCAI Global Top 100, Invest Estonia entry, 2025",
+   "url": "https://ircai.org/top100/entry/automation-of-investment-promotion-at-the-estonian-investment-agency-3/",
+   "status": "secondary",
+   "section": [
+    "solution"
+   ],
+   "note": "self-submitted"
+  }
+ ]
+}
